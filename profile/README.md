@@ -1,4 +1,4 @@
-# NOW BASED ON REACT.js 🎉
+# NOW BASED ON React.js 🎉
 
 ## Hi there checkout the our website👋
 
