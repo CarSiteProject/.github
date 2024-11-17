@@ -11,3 +11,6 @@ link to our website: [car-site.github.io](https://carsiteproject.github.io/car-s
 **we also plan to make an mobile app in the future so stay tuned (open-source)**
 
 > note that this project is in development so don't expect anything ✨Great✨ working and looking.
+
+### CHANGELOG
+**you can find changelog here: [CHANGELOG.md](https://github.com/CarSiteProject/car-site.github.io/blob/dev/CHANGELOG.md)**
