@@ -1,3 +1,5 @@
+### all of the repositories and the entire projects are currently in it's development state
+
 # NOW BASED ON [React.js](https://react.dev/) 🎉
 
 ## Hi there checkout the our website👋
