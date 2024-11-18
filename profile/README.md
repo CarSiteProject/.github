@@ -14,3 +14,6 @@ link to our website: [car-site.github.io](https://carsiteproject.github.io/car-s
 
 ### CHANGELOG
 **you can find changelog here: [CHANGELOG.md](https://github.com/CarSiteProject/car-site.github.io/blob/dev/CHANGELOG.md)**
+
+
+## currently this project uses: react.js, electorn. (planning to add flutter/dart for the android application)
