@@ -1,6 +1,6 @@
 ### all of the repositories and the entire projects are currently in it's development state
 
-# NOW BASED ON [React.js](https://react.dev/) 🎉
+# SWITCHED TO [Vue.js](https://vuejs.org/) 🎉
 
 ## Hi there checkout the our website👋
 
